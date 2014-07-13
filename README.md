@@ -11,7 +11,7 @@ This repo includes following files
 - `plot2.R` which generates plot 2
 - `plot3.R` which generates plot 3
 - `plot4.R` which generates plot 4
-- `plots` folder which contains plot1.png, plot2.pnf, plot3.png and plot4.png
+- `plots` folder which contains [plot1.png](plots/plot1.png), [plot2.png](plots/plot2.png), [plot3.png](plots/plot3.png), [plot4.png](plots/plot4.png)
 
 
 ---
